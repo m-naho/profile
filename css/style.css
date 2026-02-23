@@ -45,7 +45,6 @@ li {
 
 /* ヘッダー */
 header {
-  width: 92%;
   height: 60px;
   display: flex;
   justify-content: space-between;
